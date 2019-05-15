@@ -1,4 +1,4 @@
-# Peer review prediction
+# Scientific peer reviews recommendation score prediction and Yelp reviews score prediction
 
 There are three notebooks:
 
